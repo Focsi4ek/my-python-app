@@ -1,0 +1,9 @@
+README.md
+setup.py
+my_python_app.egg-info/PKG-INFO
+my_python_app.egg-info/SOURCES.txt
+my_python_app.egg-info/dependency_links.txt
+my_python_app.egg-info/top_level.txt
+myapp/__init__.py
+myapp/app.py
+tests/test_app.py
